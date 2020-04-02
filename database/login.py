@@ -5,3 +5,5 @@ mydb = mysql.myconnector.connect(
     user = "root",
     password = "R3m0v3s!"
 )
+
+print(mydb)

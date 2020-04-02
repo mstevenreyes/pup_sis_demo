@@ -1,6 +1,7 @@
 body {
   background: url(../img/bg.jpg);
-  
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .buttons li {
